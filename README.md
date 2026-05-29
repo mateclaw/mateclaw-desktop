@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="resources/images/MateClaw-logo-white.png" alt="MateClaw Logo" width="120" />
-</p>
-
 <h1 align="center">MateClaw</h1>
 
 <p align="center">企业 AI 数字员工系统 —— 让 AI 真正融入你的工作流</p>
